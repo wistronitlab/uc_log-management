@@ -1,0 +1,2 @@
+# uc_log-management
+Usecase Log-Management是用來記錄與儲存如何使用elasticsearch來做為巨量Log資料的儲存資料庫及real-time或near-real-time的Log資料分析與查詢。
